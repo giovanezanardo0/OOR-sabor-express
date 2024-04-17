@@ -1,0 +1,14 @@
+Site para pegar emoticons
+
+https://coolsymbol.com
+******************************************************
+
+******************************************************
+vars: mostra as informações do objeto
+
+exemplo - print(vars(restaurante_praca))
+******************************************************
+dir: mostra tudo do obejto(atributos, metodos...)
+
+exemplo - print(dir(restaurante_praca))
+******************************************************
